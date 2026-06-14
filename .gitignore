@@ -1,0 +1,10 @@
+*.parquet
+*.pkl
+*.csv
+*.zip
+*.gz
+*.txt
+*.so*
+dataset/
+__pycache__/
+.ipynb_checkpoints/
